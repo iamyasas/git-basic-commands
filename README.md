@@ -8,4 +8,5 @@ This is to make a note of the git commands I use it & refer later.
 4) git remote add origin htttps://your-remote-git-repo.git - add remote repo
 5) git push -u origin master - checkin master branch to the remote repo/origin
 6) git branch branch-name - create new branch from master
-7) git checkout branch-name - swich to a branch
+7) git checkout branch-name - switch to a branch
+8) git merge branch-name - marge a branch with master(should switch to master branch before using checkout)
