@@ -10,3 +10,4 @@ This is to make a note of the git commands I use it & refer later.
 6) git branch branch-name - create new branch from master
 7) git checkout branch-name - switch to a branch
 8) git merge branch-name - marge a branch with master(should switch to master branch before using checkout)
+9) git fetch upstream - Sync local with remote(new branches and commits will sync with local)
